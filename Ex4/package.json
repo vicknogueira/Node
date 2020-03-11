@@ -1,0 +1,14 @@
+{
+  "name": "ex4",
+  "version": "1.0.0",
+  "description": "Criei a identidade do projeto e nele é exibido uma mensagem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
