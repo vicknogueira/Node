@@ -1,0 +1,14 @@
+{
+  "name": "ex5",
+  "version": "1.0.0",
+  "description": "Criando um projeto com calculadora e aprendendo a criar o package.json, baixar o express e fazer importações de funções",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
